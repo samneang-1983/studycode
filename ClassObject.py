@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filte
 
 
 BOT_TOKEN = "8746969042:AAH-5oLV7U7zt8inFCBbDt-02s2s_16rNrQ"
-
+ #gfgfhghghg
 class Country:
     def __init__(self, capital: str, population: str, currency: str, region: str):
         self.capital = capital
